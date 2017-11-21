@@ -25,7 +25,6 @@ class ViewController: UIViewController {
     
     
     //collection - ---array!
-    
     @IBOutlet var cardButtons: [UIButton]!
     var emojiChoices = ["🎃","👻","🎃","👻"]
     @IBAction func touchCard(_ sender: UIButton)
